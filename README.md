@@ -8,8 +8,8 @@ Welcome to the RAM Module Project! This repository contains Verilog implementati
   - [`Dual_port_ram.v`](./Dual%20port%20ram/Dual_port_ram.v)
   - [`Dual_port_ram_tb.v`](./Dual%20port%20ram/Dual_port_ram_tb.v)
 - **Single Port RAM**
-  - [`Single_port_ram.v`](./Single_port_ram.v)
-  - [`Single_port_ram_tb.v`](./Single_port_ram_tb.v)
+  - [`Single_port_ram.v`](./Single%20port%20ram/Single_port_ram.v)
+  - [`Single_port_ram_tb.v`](./Single%20port%20ram/Single_port_ram_tb.v)
 - [`LICENSE`](./LICENSE)
 - [`README.md`](./README.md)
 
