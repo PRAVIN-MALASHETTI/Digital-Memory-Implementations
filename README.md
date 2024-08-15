@@ -4,10 +4,15 @@ Welcome to the RAM Module Project! This repository contains Verilog implementati
 
 ## 📁 Contents
 
-- `single_port_ram.v`: Single-Port RAM implementation
-- `dual_port_ram.v`: Dual-Port RAM implementation
-- `single_port_ram_tb.v`: Testbench for Single-Port RAM
-- `dual_port_ram_tb.v`: Testbench for Dual-Port RAM
+- **Dual Port RAM**
+  - [`Dual_port_ram.v`](./Dual_port_ram.v)
+  - [`Dual_port_ram_tb.v`](./Dual_port_ram_tb.v)
+- **Single Port RAM**
+  - [`Single_port_ram.v`](./Single_port_ram.v)
+  - [`Single_port_ram_tb.v`](./Single_port_ram_tb.v)
+- [`LICENSE`](./LICENSE)
+- [`README.md`](./README.md)
+
 
 ## 🚀 Features
 
